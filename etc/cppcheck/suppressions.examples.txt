@@ -1,4 +1,0 @@
-duplicateExpression
-missingIncludeSystem
-unmatchedSuppression
-variableScope

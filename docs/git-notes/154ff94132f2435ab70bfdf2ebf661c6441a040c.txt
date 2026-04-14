@@ -1,4 +1,0 @@
----
-type: amend-message
----
-feat: add constants to `float64` namespace

@@ -1,4 +1,0 @@
----
-type: amend-message
----
-bench: add missing float literal suffix in `blas/base/isamax`

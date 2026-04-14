@@ -1,4 +1,0 @@
----
-type: amend-message
----
-docs: update TypeScript comments to use single-precision in `number/float32/base` namespace
